@@ -10,6 +10,7 @@ title: Projects
 * Project Greenforce
 * Log Analytics using Text Mining and Natural Language processing
 * Inventory Forecast and Inventory Segmentation
+* Autonomous CAR
 
 ---
 Photo by <a href="https://unsplash.com/@furtado?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Felipe Furtado</a> on <a href="https://unsplash.com/s/photos/projects?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
